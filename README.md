@@ -4,6 +4,36 @@ A Machine Learning web application built with **Streamlit** that predicts whethe
 
 ---
 
+## 🌐 Live Demo
+
+https://titanic-survival-prediction-using-machine-learning-qrub2xwxqcw.streamlit.app/
+
+## 📂 GitHub Repository
+
+https://github.com/Jyoti-246/Titanic-Survival-Prediction-using-Machine-Learning
+
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home](images/Home.png)
+
+### 📊 EDA Page
+
+![EDA](images/EDA.png)
+
+### 🔮 Prediction Page
+
+![Prediction](images/Prediction.png)
+
+### 📈 Model Comparison
+
+![Comparison](images/ModelComparison.png)
+
+...
+
 ## 📌 Project Overview
 
 This project uses the Titanic dataset to predict passenger survival based on features such as:
